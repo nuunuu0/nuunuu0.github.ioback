@@ -6,7 +6,7 @@ permalink: /itse-2402/
 [Click me!](http://test.com/)
 
 # My classmates #
-* [Nakima Slaughter] (https://nuunuu0.github.io/)
+* [Nakima Slaughter](https://nuunuu0.github.io/)
 * [Sergio Lopez](https://azaidensuniverses.github.io/)
 * [Giselle Rivas](https://odaliss12.github.io/)
 * [Miriam Hernandez](https://miriamlaguera.github.io/)
