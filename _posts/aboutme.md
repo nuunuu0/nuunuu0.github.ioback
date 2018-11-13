@@ -19,5 +19,6 @@
   <li>School of Hard Knocks</li>
 </ul>
 
-Email Us
+<h3 id=" contact-me'>Contact me</h3
+<p><a href="https://html5-editor.net/">Email Us</a></p>
 
