@@ -11,7 +11,7 @@ permalink: /itse-2402/
 * [Giselle Rivas](https://odaliss12.github.io/)
 * [Miriam Hernandez](https://miriamlaguera.github.io/)
 * [Christopher Davis](https://3036154.github.io/)
-* [Jihad Johnson](jihadj.github.io is my jekyll page link.)
+* [Jihad Johnson](jihadj.github.io)
 * [Corey O'Neal](https://cohunnitshots.github.io/)
 * [Rodolfo Manriquez](https://rodolfo02002.github.io/)
 * [Francisco Salazar](https://francisco214.github.io/)
