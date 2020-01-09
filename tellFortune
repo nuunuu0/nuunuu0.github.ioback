@@ -1,0 +1,40 @@
+
+<html>
+<!--
+Author:Nakima Slaughter 
+Dates: January 9,2020
+Course: INEW 2434-53400
+Filename: fortuneTeller.html
+-->
+<meta charset="YTF-8">
+<title>Fortune Teller Function</title>
+<script>
+     var spouse = 'Tom' ;
+     var city = 'Dallas TX' ;
+     var jobTitle = 'Physical Therapist' ;
+     var numKids = 1;
+
+     var Fortune = You will be a ' + jobTitle + ' in ' + city + ' and married to ' + spouse + ' with ' + ' kids. ' ;
+     
+     alert(fortune);
+
+     function tellFortune(jobTitle, city, spouse, numKids) { 
+         var fortune = 'You will be a ' + jobTitle + ' in ' + city + ' and married to ' +
+          
+         spouse + ' with ' + numKids. ' ;
+         alert(fortune);
+     }
+     
+     tellFortune( 'Web Designer' , 'Dallas' , 'Tom' , 1);
+     tellFortune( 'Teacher' , 'Dallas TX' , 'Tim' , 2);
+     tellFortune( 'Nurse' , 'Tyler', 'Jack' , 3);
+   </script>
+</head>
+
+<body>
+
+
+
+
+</body>
+</html>
